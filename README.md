@@ -1,11 +1,8 @@
 # MMDVM.io 备份站点 
- 微信公众号 bi7jta73  
- QQ群 320533571 ; QQ微信在线 38091476  
- 淘宝 [https://bi7jta.taobao.com](https://bi7jta.taobao.com)  
- 视频 [https://space.bilibili.com/248541709](https://space.bilibili.com/248541709)     
- 视频 [https://i.youku.com/bi7jta](https://i.youku.com/bi7jta)  
-   
- 教程 [PDF文件下载后浏览](https://github.com/huangqianqing/huangqianqing.github.io/tree/master/guide)  
-    
-更多：  
-www.aprspi.org   www.bi7jta.org  www.bi7jta.cn  www.mmdvm.io   
+ QQ群爆满满员，请关注公众号，获得邀请进入微信群    
+ 微信公众号 bi7jta73    
+ 
+ [![Build Status](https://dev.azure.com/Mumble-VoIP/Mumble/_apis/build/status/Mumble-CI?branchName=master)](https://dev.azure.com/Mumble-VoIP/Mumble/_build/latest?definitionId=1?branchName=master)
+
+> *http://www.bi7jta.cn*  
+> *MMDVM维基Wiki*
